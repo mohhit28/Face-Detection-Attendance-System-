@@ -45,4 +45,4 @@ Attendance Tracking: Seamlessly integrates recognition with attendance logging.
 
 Real-Time Processing: Handles real-time video streams and recognition dynamically.
 
-This system provides a solid foundation for applications such as automated attendance systems and basic facial recognition solutions. Let me know if you'd like to refine or expand its functionality!
+This system provides a solid foundation for applications such as automated attendance systems and basic facial recognition solutions. 
